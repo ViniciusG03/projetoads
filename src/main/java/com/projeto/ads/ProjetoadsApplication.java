@@ -18,7 +18,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @EnableAutoConfiguration
 
-
 @SpringBootApplication
 public class ProjetoadsApplication {
 
